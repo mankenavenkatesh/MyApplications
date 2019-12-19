@@ -1,7 +1,7 @@
 # One place 
--  To know the my technical knowledge and learnings
--  To know the projects i have done
--  To know my open source contributions
--  To know the hackathon porjects i have done
--  To know my certifications
--  To know the technical talks i have given
+-  To know - my technical knowledge and learnings
+-  To know - projects i have done
+-  To know - my open source contributions
+-  To know - hackathon porjects i have done
+-  To know - certifications i have done
+-  To know - tech talks i have given
