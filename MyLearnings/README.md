@@ -1,7 +1,7 @@
 # References to all my technical learnings
 
 ## Conceptual Understanding
-- Language Basics - (https://github.com/mankenavenkatesh/ProgrammingLanguage)
+- Programming Language Constrcuts - (https://github.com/mankenavenkatesh/ProgrammingLanguage)
 - Programming Paradigms (https://github.com/mankenavenkatesh/ProgrammingParadigms)
 - Algorithms. (https://github.com/mankenavenkatesh/algorithms)
 - Engineering-internals (https://github.com/mankenavenkatesh/engineering-internals)
