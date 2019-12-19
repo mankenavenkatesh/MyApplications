@@ -1,7 +1,7 @@
 # One place to know
-- #####  my technical knowledge and learnings -- https://github.com/mankenavenkatesh/MyWork/tree/master/MyLearnings
-- ##### projects i have done -- https://github.com/mankenavenkatesh/MyWork/tree/master/MyApplications
+- ##### my technical knowledge and learnings -- https://github.com/mankenavenkatesh/MyWork/tree/master/MyLearnings
+- ##### my projects -- https://github.com/mankenavenkatesh/MyWork/tree/master/MyApplications
 - ##### my open source contributions -- https://github.com/mankenavenkatesh/MyWork/tree/master/MyOpenSource
-- ##### hackathon projects i have done -- https://github.com/mankenavenkatesh/MyWork/tree/master/MyHackathons
-- ##### certifications i have done -- https://github.com/mankenavenkatesh/MyWork/tree/master/MyCertifications
-- ##### tech talks i have given -- https://github.com/mankenavenkatesh/MyWork/tree/master/MyTalks
+- ##### my hackathon projects -- https://github.com/mankenavenkatesh/MyWork/tree/master/MyHackathons
+- ##### my certifications  -- https://github.com/mankenavenkatesh/MyWork/tree/master/MyCertifications
+- ##### my tech talks -- https://github.com/mankenavenkatesh/MyWork/tree/master/MyTalks
