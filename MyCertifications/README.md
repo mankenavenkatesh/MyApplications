@@ -1,3 +1,3 @@
-References to my certifications
-
-- Consensys certified blockchain developer
+## All my certifications
+### In Blockchain Space
+- ##### Consensys certified blockchain developer
