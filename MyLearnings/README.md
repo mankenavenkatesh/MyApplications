@@ -7,5 +7,5 @@
 - Engineering-internals (https://github.com/mankenavenkatesh/engineering-internals)
 - Blockchain Internals (https://github.com/mankenavenkatesh/blockchain-internals)
 
-## Example Implementations
+## Examples & Implementations
 - Language-Agnosticism - https://github.com/mankenavenkatesh/Language-Agnosticism
