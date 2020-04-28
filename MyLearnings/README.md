@@ -3,7 +3,7 @@
 ## Conceptual Understanding
 - Programming Language Constrcuts - (https://github.com/mankenavenkatesh/ProgrammingLanguage)
 - Programming Paradigms (https://github.com/mankenavenkatesh/ProgrammingParadigms)
-- Programming Algorithms. (https://github.com/mankenavenkatesh/algorithms)
+- Algorithms. (https://github.com/mankenavenkatesh/algorithms)
 - Engineering-internals (https://github.com/mankenavenkatesh/engineering-internals)
 - Blockchain Internals (https://github.com/mankenavenkatesh/blockchain-internals)
 
