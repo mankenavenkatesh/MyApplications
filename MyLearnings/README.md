@@ -10,3 +10,6 @@
 
 ## Examples & Implementations
 - Language-Agnosticism - https://github.com/mankenavenkatesh/Language-Agnosticism
+
+
+https://www.lifehack.org/854904/learn-at-work
