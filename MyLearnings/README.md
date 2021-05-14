@@ -15,3 +15,4 @@
 
 ## Learn at work
 https://www.lifehack.org/854904/learn-at-work
+https://www.rosettacode.org/wiki/Rosetta_Code
